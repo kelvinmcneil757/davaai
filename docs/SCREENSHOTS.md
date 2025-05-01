@@ -11,6 +11,8 @@ This document provides guidelines for capturing and maintaining screenshots of t
 - Features section
 - About section
 - CTA section
+<img width="1407" alt="Screenshot 2025-04-30 at 11 37 41 AM" src="https://github.com/user-attachments/assets/435fda35-b430-4eed-a647-3291feb6c900" />
+<img width="1407" alt="Screenshot 2025-04-30 at 11 37 54 AM" src="https://github.com/user-attachments/assets/cbf64c6b-2d34-4a9e-a83f-5371316169cb" />
 
 ### 2. Analyze Page
 - Empty state
@@ -18,11 +20,18 @@ This document provides guidelines for capturing and maintaining screenshots of t
 - Context input form
 - Analysis results view
 - Error states
+<img width="1407" alt="Screenshot 2025-04-30 at 11 38 01 AM" src="https://github.com/user-attachments/assets/e5cd74ed-6bb6-41cb-afbf-35cb40940009" />
 
 ### 3. Responsive Views
 - Mobile view (320px)
 - Tablet view (768px)
 - Desktop view (1024px)
+
+### Labs Page Screenshot (Consulting) 
+- Responsive UI/UX based on a user screen position
+<img width="1407" alt="Screenshot 2025-04-30 at 11 38 12 AM" src="https://github.com/user-attachments/assets/3eabf27a-ac45-4127-ae01-877033682839" />
+<img width="1407" alt="Screenshot 2025-04-30 at 11 38 25 AM" src="https://github.com/user-attachments/assets/f61311ed-3253-4a71-8654-2aadd75431f0" />
+
 
 ## Screenshot Guidelines
 
